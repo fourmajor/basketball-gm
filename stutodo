@@ -1,0 +1,40 @@
+player chemistry
+rework free agent system
+	bids
+	team desirability
+		closeness to player hometown
+		recent success
+		current talent
+		market size
+		players who are friends
+		the right coach
+	player preferences will evolve over time
+		players start off desiring money and market size
+		as players age they want to win
+new player ratings 
+	driving
+	weight
+	attitude
+	shot selection
+how current player ratings work
+	having a 100 rating or a 1 rating actually means something
+	height changed to feet and inches between 5'0" and 8'0"
+	calculate true player value rather than "overall" rating
+events
+	longer injuries
+	suspensions
+	technical fouls
+coaches with different attributes
+	player development
+	offense
+	defense
+	respect
+league trends
+move team to a new city
+show team needs for your team and other teams
+cpu initiates trades
+trade deadline
+all-star break
+more nuanced salary cap rules
+	veteran's minimum
+	mid-level exception
